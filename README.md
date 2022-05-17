@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/the-pedropaulo/"><i>Pedro Paulo</i></a> 😃️</h1>
+  <h1 align="center">What's up, guys?? My name is <a href="https://www.linkedin.com/in/the-pedropaulo/"><i>Pedro Paulo</i></a> 😃️</h1>
 
 <div align="center">
   <a href="https://github.com/the-pedropaulo">
